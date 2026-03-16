@@ -248,6 +248,11 @@ _pkginfo.txt
 # Others
 ClientBin/
 ~$*
+
+# Repo-specific generated/output folders
+/_dev_archive/
+/installer-output/
+/publish-output/
 *~
 *.dbmdl
 *.dbproj.schemaview
